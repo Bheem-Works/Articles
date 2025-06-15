@@ -1,16 +1,17 @@
 import React from 'react';
+import './Article.css'; // Keep this if you add external styling
 
 function ArticleOne() {
   return (
     <div className="article-container">
       {/* Article Header */}
-      <div className="helpTitle">
+      <div className="help-title">
         <h1><strong>Self-taught coder with no mentor, seeking help!</strong></h1>
         <hr />
       </div>
 
       {/* Introduction */}
-      <div className="bodyTitle">
+      <div className="body-section">
         <h2>Hello, my name is Vim</h2>
         <p>
           So, let's talk about the problems. There are many things I’ve been going through,
@@ -33,7 +34,7 @@ function ArticleOne() {
       </div>
 
       {/* Realization */}
-      <div className="regret">
+      <div className="regret-section">
         <p>
           I always think to myself: <strong>“I need to build something on my own.”</strong>
           But when I sit down to code, I get stuck. If it was Figma, I’d probably make something cool —
@@ -43,7 +44,7 @@ function ArticleOne() {
         <p>
           The people around me? They’re not really into deep learning either. They follow tutorials just like I did.
           They know how to render stuff, but not how it works behind the scenes.
-          <strong>I want to go deep — understand everything: what’s happening and why.</strong>
+          <strong> I want to go deep — understand everything: what’s happening and why.</strong>
         </p>
         <p>
           So here I am, asking for help. Should I move to a different language for now and come back later?
@@ -78,12 +79,28 @@ function ArticleOne() {
           <strong>I have hope. I’ve come this far. I’ve learned what I could. I’m still fighting.</strong>
           I just need a little help — a little push. I know I can go far.
         </p>
+
+        {/* Contact Form */}
+        <form
+          action="https://formspree.io/f/xovdloqv"
+          method="POST"
+          className="contact-form"
+        >
+          <label>
+            Your email:
+            <input type="email" name="email" className="input-field" required />
+          </label>
+
+          <label>
+            Your message:
+            <textarea name="message" rows="4" className="input-field" required></textarea>
+          </label>
+
+          <button type="submit" className="submit-button">Send</button>
+        </form>
       </div>
     </div>
   );
 }
 
 export default ArticleOne;
-
-
-
