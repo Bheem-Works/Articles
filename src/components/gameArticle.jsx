@@ -16,6 +16,9 @@ function Game () {
         well making the games and doing the all stuff projects. Will that help me to become a good programmer or coder? and can i be able to solve the
       leetcode problems. Like if it is then i am going to tyr and i will make stuff with my own self. </p>
       </div>
+      <div className="ownGame">Whenever i ask people to help he just told me you have to do that thing's in your way. You just need to read other's
+      document and other's stuff. You have to gain the knowledge and try and practise for makin the games and whatever i wanted they actually don't help 
+    like the ai just help be by giving the answers. So it's kind of thing's also.</div>
     </div>
     </>
   );
