@@ -1,11 +1,10 @@
 import React from 'react'
-import ArticleOne from './components/ArticleOne'
-import Game from './components/gameArticle'
+import Enough from './components/Enough.jsx';
 
 function App() {
   return (
     <div>
-      <Game />
+      <Enough />
     </div>
   )
 }
