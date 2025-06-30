@@ -1,27 +1,50 @@
 import React from 'react';
 
-function Youtube () {
-  return(
+function Youtube() {
+  return (
     <>
-    <div className='container'>
-      <h1 className='header'>Sign Out From Youtube </h1>
-  
-      <div className='body'>
-        <p><strong>Why</strong> sign out from the youtube helps you to be more productive and maintain you focus. It is like you are getting away from the distraction. Let me share how it works <br /> When you are in work or in the moment when you are learning and willing to watch something's for some purpose. Like as reading and watching some toutorials thign's. So when you open your youtube. You get distracted from it. Do you know why? coz you are logged in. It shows what you like most and you will not get at that moment what you are willing to do and what you are about to. You don't even search for it.   </p>
-        <p>People get easily distracted from the unwanted youtube content. As a personall experince i am saying.
-          when i about to learn something's in the youtube or watch the toutorials. I got distracted by the other's videos. <br />
-          to escape from that moment.  I signout from youtube. The advantage of the sign out. You will not get any videos and you will not get distracted yoiu search what you want to see. 
-          And stick with that thing's. And you can maintian your focus and watch that video straight and get the hell out from the youtube. 
-          You may not think's it will be that much helpful. 
-          But it may can help to less your screen time. You should try this one and see some changes. 
+      <div className='container'>
+        <h1 className='header'>Sign Out From YouTube</h1>
 
-          <strong>Well,</strong> this is not that big much thing's but i just found this trick and thinks it may can helpful. 
-          You can also try this if you want to get bored and want a less screen time. You can logout from your social id and other's stuff. 
-        </p>
+        <div className='body'>
+          <p>
+            <strong>Why sign out from YouTube?</strong><br />
+            Signing out of YouTube can actually help you become more productive and stay focused. 
+            Think of it as a way to reduce distractions. Let me explain how it works.
+          </p>
+
+          <p>
+            When you're working or trying to learn something—like watching a tutorial—you often go to YouTube with a clear purpose. 
+            But the moment you open the app while logged in, you're shown **personalized content** based on your interests. 
+            And guess what? You end up watching those **recommended videos** instead of what you came for. 
+            You get distracted before you even search for what you needed.
+          </p>
+
+          <p>
+            From my **personal experience**, I can say this really affects focus. Every time I go on YouTube to learn something, 
+            I end up watching unrelated videos just because they popped up on my homepage. 
+          </p>
+
+          <p>
+            So here's what I started doing: <strong>I sign out from YouTube.</strong><br />
+            Once you're signed out, YouTube no longer shows personalized suggestions. You have to **manually search** for what you want to watch.
+            This keeps you on track. You watch your video, get the information you need, and then leave the app—**no distractions**.
+          </p>
+
+          <p>
+            This might not seem like a big deal, but it can help reduce your screen time and improve your focus. 
+            It's a small trick, but it really worked for me. Try it out and see if it helps you too.
+          </p>
+
+          <p>
+            <strong>Bonus Tip:</strong><br />
+            You can also log out of other social media platforms if you're trying to cut down on screen time or just want a break. 
+            It’s a simple change, but it can make a noticeable difference.
+          </p>
+        </div>
       </div>
-    </div>
     </>
-  )
+  );
 }
 
 export default Youtube;
