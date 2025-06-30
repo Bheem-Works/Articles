@@ -1,12 +1,12 @@
 import React from 'react'
-import Enough from './components/Enough.jsx';
-
+import Youtube from '../src/components/Youtube.jsx'
 function App() {
   return (
     <div>
-      <Enough />
+      <Youtube />
     </div>
   )
 }
 
 export default App
+ 

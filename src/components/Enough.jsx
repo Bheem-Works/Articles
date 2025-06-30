@@ -15,7 +15,7 @@ function Enough(){
   <br />
   <div className="body">
     <h2>What is the meaning of the enough for me ?</h2>
-    <p>The meaning of the enough for me is that having the all thing' that i want and get bored of it. </p>
+    <p>The meaning of the enough for me is that having the all thing' that i want and get bored of it.<br />Isn't is this is <strong>same</strong> for you also ?<br /> Being as a human we never be enough of the anything's. <br />And leoniel robinns say's that human want are unlimited and the resources are limited. <br /> Getting the thing's what you want.and get satisfied from it.<br /> And aren't you get enough of that thing's. Enough is not necissity. <br />In other's words you can also say that satisfaction is enough.  </p>
   </div>
     </div>
     </>
