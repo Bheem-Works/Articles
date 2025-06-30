@@ -13,6 +13,10 @@ function Youtube () {
           to escape from that moment.  I signout from youtube. The advantage of the sign out. You will not get any videos and you will not get distracted yoiu search what you want to see. 
           And stick with that thing's. And you can maintian your focus and watch that video straight and get the hell out from the youtube. 
           You may not think's it will be that much helpful. 
+          But it may can help to less your screen time. You should try this one and see some changes. 
+
+          <strong>Well,</strong> this is not that big much thing's but i just found this trick and thinks it may can helpful. 
+          You can also try this if you want to get bored and want a less screen time. You can logout from your social id and other's stuff. 
         </p>
       </div>
     </div>
