@@ -1,9 +1,9 @@
 import React from 'react'
-import Youtube from '../src/components/Youtube.jsx'
+import OneTimeCharge from './components/OneTimeCharge'
 function App() {
   return (
     <div>
-      <Youtube />
+      <OneTimeCharge />
     </div>
   )
 }
