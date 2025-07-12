@@ -22,9 +22,11 @@ body{
 }
 
 .container{
-  width:1000px;
+  width:900px;
   height: auto;
   border: none;
+  align-items: start;
+  text-align: start;
   /* background-color: orange; */
 }
 
