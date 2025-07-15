@@ -1,33 +1,31 @@
-    import React from 'react'
-    
-    function july_thirteen() {
-      return (
-        <div className='container'>
-            <div className="start">
-          <h1>July 13th</h1>
-          <p>This is a special day in July.</p>
-          <p>Let's start from today. Today weather was pretty and it's so sunny. And yeh after all today day was pretty fine. I enjoy it. 
-            <br /> <b>Today was a good day.</b> <strong>When i talk in english i feel confident. and i don't do lot more jhagda(quarriel) 
-            </strong> Which is a good thing. I feel like i doesn't care about stupid things.And i am a <b>Chill person</b>
-            Anways, that's it for today. I will write some stuff on the event class. 
-            <strong>The account books was also not avaible today in the shop.</strong>
-          </p>
-        
-            <div className="event">
-                <h1>Event**</h1>
-                <p>Today event i talk about lot about the big thing's and the improvements thing's and the c stuff and much more stuff. 
-                    talking with a person that really gives up a hope and a knowledge about the thing's what you want to listen to. 
-                    I am quite happy i have a mentor like that who is from the us and other people also who helped a lot. 
-                    And yeh i have to make the 100 code today and i have to do my best in the english homework.. 
-                    <br /> <b>And i have to do the 100 code today.</b>
-                    <i>Jane See ya!</i>
-                </p>
-            </div>
-            </div>
+import React from 'react'
 
+function July_thirteen() {
+  return (
+    <div className='container'>
+      <div className="start">
+        <h1>July 13th</h1>
+        <p>This is a special day in July.</p>
+        <p>
+          Let's start with today. The weather was beautiful and sunny, and overall, the day went really well. I enjoyed it a lot.<br />
+          <b>Today was a good day.</b> <strong>When I speak in English, I feel confident, and I don't get into as many arguments (jhagda/quarrel).</strong> That's a good thing. I feel like I don't care about unimportant things, and I'm a <b>chill person</b>.
+          Anyway, that's it for today. I'll write more in the event section.<br />
+          <strong>The account books were also not available in the shop today.</strong>
+        </p>
+
+        <div className="event">
+          <h1>Event</h1>
+          <p>
+            Today, I talked a lot about big things, improvements, C programming, and much more. Speaking with someone who gives hope and shares knowledge about what you want to hear is really valuable. I'm quite happy to have a mentor like that from the US, and there are other people who have helped a lot too.<br />
+            I also have to complete 100 lines of code today and do my best on my English homework.<br />
+            <b>And I have to do the 100 code today.</b><br />
+            <i>Jane, see ya!</i>
+          </p>
         </div>
-      )
-    }
-    
-    export default july_thirteen
+      </div>
+    </div>
+  )
+}
+
+export default July_thirteen
     

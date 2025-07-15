@@ -1,10 +1,10 @@
 import React from 'react'
-import July_Nine from './journalEntry/july_nine'
+import July_fourteen from './journalEntry/July_fourteen'
 
 function App() {
   return (
     <div>
-    <July_Nine />
+    <July_fourteen />
     </div>
   )
 }

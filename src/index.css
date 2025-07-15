@@ -42,6 +42,9 @@ body{
 }
 
 p{
-  letter-spacing:2px;
-  line-height: 1.3;
+  letter-spacing: 1px;
+  line-height: normal;
+  color:white;
+  font-weight: 500;
+  font-size: 18px;
 }
