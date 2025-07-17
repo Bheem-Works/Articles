@@ -1,9 +1,9 @@
 import React from 'react'
-import MouseUser from '../mouseUser'
+import July_Seventeen from './journalEntry/july_seventeen'
 function App() {
   return (
     <div>
-    <MouseUser />
+    <July_Seventeen />
     </div>
   )
 }
