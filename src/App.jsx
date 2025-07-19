@@ -1,9 +1,10 @@
 import React from 'react'
-import July_Seventeen from './journalEntry/july_seventeen'
+import EconomicsChapOne from './hw/chapOneEco'
+
 function App() {
   return (
     <div>
-    <July_Seventeen />
+    <EconomicsChapOne />
     </div>
   )
 }
