@@ -38,6 +38,27 @@ function EconomicsChapOne() {
     {
       question: "What is a capitalist economy?",
       answer: `It is an economic system where there is private ownership, and all economic decisions are made by the price mechanism based on market demand and supply. This is known as a capitalist economy.`
+    },
+    {
+      question:""
+    },
+    {
+      question:"Write a short answers."
+    },
+    {
+      question:"Explain the concept allocation of resources or central problems of an economy? ",
+      answer:""
+    },
+    {
+      question:"explain the concept of productive possbility curve",
+      answer:""
+    },{
+      question:"Discuss the advantages and divisions of the labour or specialzation",
+      answer:""
+    },
+    {
+      question:"what is economoy explain any four features",
+      answer:""
     }
   ];
 
