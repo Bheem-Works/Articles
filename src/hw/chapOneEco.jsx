@@ -40,9 +40,6 @@ function EconomicsChapOne() {
       answer: `It is an economic system where there is private ownership, and all economic decisions are made by the price mechanism based on market demand and supply. This is known as a capitalist economy.`
     },
     {
-      question:""
-    },
-    {
       question:"Write a short answers."
     },
     {
