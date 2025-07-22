@@ -137,10 +137,12 @@ function EconomicsChapOne() {
           </li>
         ))}
       </ol>
-      <p>Thanks Mate!</p>
+      <footer style={{ marginTop: '2rem', fontSize: '1em', color: '#888' }}>
+        <p>Thanks Mate!</p>
+        &copy; 2024 Vim Magar. All rights reserved.
+      </footer>
     </div>
   );
 }
 
 export default EconomicsChapOne;
-
