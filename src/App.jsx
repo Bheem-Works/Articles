@@ -1,10 +1,9 @@
 import React from 'react'
-import JulyTwenty from './journalEntry/JulyTwenty';
-
+import  EconomicsChapOne from './hw/chapOneEco.jsx'
 function App() {
   return (
     <div>
-    <JulyTwenty />
+      <EconomicsChapOne />
     </div>
   )
 }
