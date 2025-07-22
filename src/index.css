@@ -44,20 +44,19 @@ body{
 
 p{
   letter-spacing: 1px;
-  line-height: normal;
-  color:rebeccapurple;
-  font-weight: 500;
+  color:black;
+  font-weight: 900;
   font-size: 18px;
 }
 
-.questions{
+.question{
   color:black;
   font-size: 25px;
-  font-weight: 700;
+  font-weight: 900;
   text-transform:capitalize;
 }
 .answer{
-  color:purple;
+  color:rebeccapurple;
   font-size: 20px;
   text-transform: inherit;
 }
